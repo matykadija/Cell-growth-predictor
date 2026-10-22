@@ -1,0 +1,3 @@
+model,valid_rmse
+Polynomial {'polynomialfeatures__degree': 2},0.157
+"KNN {'kneighborsregressor__n_neighbors': 10, 'kneighborsregressor__weights': 'distance'}",0.155
